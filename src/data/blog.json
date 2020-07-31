@@ -1,0 +1,63 @@
+{
+    "data" : [
+        {
+            "id": 1,
+           
+            "blogTitle" : "Food to boost your Immune",
+            "slug": "diet",
+            "postedOn": "June 01, 2020",
+            "blogImage": "1.jpg",
+            "blogText":  "Yogurt: To ensure hand hygiene, experts and doctors recommend washing hands with soap or using an alcohol-based rub, regularly. While hand sanitisers do kick away germs, they take good bacteria essential in building immunity." ,
+            "blogText1":"Natural Anti-virus Foods: Tulsi leaves, star anise (a spice), garlic, and ginger are some of the natural anti-virus food items which gives protection from seasonal flu as well. For boosting immunity and flushing out toxins, Ms Batra suggests a Tulsi drink which can simply be made by boiling three to four leaves in water.",
+            "blogText2":"Turmeric: The golden spice turmeric is known for its anti-oxidant and anti-inflammatory properties. Curcumin, the compound present in turmeric is a very potent agent and aids in healing of wounds and infections. This is the reason, it is often suggested to have turmeric milk.",
+            "blogText3":"Vitamins: Among all kinds of Vitamins, Vitamin C and Vitamin D play a major role in strengthening one's immunity. For the same, one should have more citrus fruits and vegetables like Amla, Lemon, Orange and others. Also, egg yolks and mushrooms are a good source of Vitamin D.",
+            "blogText4":"Zinc: It is another nutrient that helps your immune system and metabolism function. An individual can either take Zinc supplements or inculcate in their diet through cashews, pumpkin seeds, chickpeas, among others."
+        },
+        {
+            "id" : 2,
+            "blogTitle": "Exercise during lockdown",
+            "slug": "exercise",
+            "postedOn": "May 03, 2020",
+            "blogImage": "2.png",
+            "blogText": "It’s a good idea to start with basic bodyweight exercises and gradually add progressions and increase the intensity. This way, the difficulty levels are increased slowly which helps you break a sweat and strengthen your muscles while also avoiding injuries. You can add a mix of push-ups (regular and advanced), circuit training (a series of exercises in rapid succession with little or no breaks in between) and more.Home workouts can be categorised into 3 main groups: Upper Body, Lower Body, and Core.",
+            "blogText1":"✅Reverse Lunge & Knee-Up - 20 reps (10 each side)⠀",
+            "blogText2":"✅Incline Push-Up - 12 reps",
+            "blogText3":"✅Raised-Leg Sit-Up & Twist - 20 reps",
+            "blogText4":"✅Tricep Dip - 15 reps ⠀"
+        },
+        {
+            "id": 3,
+            "blogTitle": "Precaution of COVID19",
+            "slug": "beauti-lies-within-special",
+            "postedOn": "May 02, 2020",
+            "blogImage": "3.png",
+            "blogText": "Stay aware of the latest information on the COVID-19 outbreak, available on the WHO website and through your national and local public health authority. Most countries around the world have seen cases of COVID-19 and many are experiencing outbreaks. Authorities in China and some other countries have succeeded in slowing their outbreaks. However, the situation is unpredictable so check regularly for the latest news.",
+            "blogText1":"Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water. Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands.",
+            "blogText2":"Maintain at least 1 metre (3 feet) distance between yourself and others. Why? When someone coughs, sneezes, or speaks they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person has the disease.",
+            "blogText3":"Avoid touching eyes, nose and mouth. Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and infect you.",
+            "blogText4":"Keep up to date on the latest information from trusted sources, such as WHO or your local and national health authorities. Why? Local and national authorities are best placed to advise on what people in your area should be doing to protect themselves."
+        },
+        {
+            "id": 4,
+            "blogTitle": "Lockdown mental health",
+            "slug": "sliding-my-way-to-life",
+            "postedOn": "Jan 02, 2020",
+            "blogImage": "4.jpg",
+            "blogText": "Lockdown-Related Mental Stress in India:The researchers feel that sexual minorities are likely to experience unique and additional stressors related to their minority identity, which could combine with other stressors to impact psychological wellbeing,” as a result of the lockdown.",
+            "blogText2":"It is clear that the study sample is extremely limited, non-inclusive, and non-representative of the Indian population at large. Rather, this was a group of well-educated young Indians, with almost half of the qualitative interviews, surprisingly, being with individuals from a sexual minority.The researchers conclude, “To our knowledge, this is the first study to look at the differential psychological impact of the lockdown across different social groups in India. Our study also highlighted a few positive aspects of the lockdown, underscoring the increase in social empathy and strengthened social bonds among Indian adults.",
+            "blogText1":" This situation could also revive memories of old traumas in some people. The use of porn and the Internet to cope with the dullness and anxiety of these days could turn to addiction, leaving behind a permanent adverse impact even after the lockdown is over.However, the qualitative part of the study reveals that resilience and healthy coping strategies helped even high-risk individuals to stay positive, view the lockdown as a good time to ruminate on their individual and social identity, and take steps to improve their relationships with their families."
+        },
+        {
+            "id": 5,
+            "blogTitle": "WHO(WORLD HEALTH ORGANIZATION) about CoronaVirus",
+            "slug": "memories-from-last-summer",
+            "postedOn": "July 30, 2020",
+            "blogImage": "5.png",
+            "blogText": "WHO is bringing the world’s scientists and global health professionals together to accelerate the research and development process, and develop new norms and standards to contain the spread of the coronavirus pandemic and help care for those affected.",
+            "blogText1":"Global research database:",
+            "blogText2":"WHO is gathering the latest international multilingual scientific findings and knowledge on COVID-19. The global literature cited in the WHO COVID-19 database is updated daily (Monday through Friday) from searches of bibliographic databases, hand searching, and the addition of other expert-referred scientific articles. This database represents a comprehensive multilingual source of current literature on the topic. While it may not be exhaustive, new research is added regularly",
+            "blogText3":"The WHO evidence retrieval sub-group has begun collaboration with key partners to enrich the citations and build a more comprehensive database with inclusion of other content. The database is built by BIREME, the Specialized Center of PAHO/AMRO and part of the Regional Office’s Department of Evidence and Intelligence for Action in Health. ",
+            "blogText4":"For further information or questions, please contact the WHO Library via Library@who.int"
+        }
+    ]
+}

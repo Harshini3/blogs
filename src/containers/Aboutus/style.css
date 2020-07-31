@@ -1,0 +1,13 @@
+.about{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    height: 450px;
+ background-repeat: round;
+ background-image: url('https://image.freepik.com/free-vector/elegant-white-texture-background_23-2148431731.jpg');
+}
+.text{
+text-align:center;
+text-indent: 34px;
+text-transform: uppercase;
+}

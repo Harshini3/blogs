@@ -1,0 +1,13 @@
+.logo{
+    text-align: center;
+    height: 300px;
+    background-image: url('https://dcmsme.gov.in/Awareness_corona/covid-19-banner.jpg');
+}
+.logo a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    text-decoration: none;
+    color:black;
+    background-color: white;
+}
+
